@@ -1,9 +1,9 @@
 {
   "type": "panel",
-  "name": "Softtek Pie",
-  "id": "softtek-echarts-panel",
+  "name": "Softtek Pie2",
+  "id": "softtek-echarts-panel2",
   "info": {
-    "description": "Softtek Pie panel for grafana",
+    "description": "Softtek Pie 2 panel for grafana",
     "author": {
       "name": "Softtek",
       "url": "https://github.com/Billiballa"
